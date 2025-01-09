@@ -1,4 +1,4 @@
-# Drivania Booking Frontend 🚗✨
+# Booking Frontend 🚗✨
 
 ## Overview 🌟
 
