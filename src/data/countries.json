@@ -1,0 +1,404 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "United States",
+      "code": "USA",
+      "shortCode": "US",
+      "phoneCode": "+1",
+      "ue": false
+    },
+    {
+      "id": 2,
+      "name": "Spain",
+      "code": "ESP",
+      "shortCode": "ES",
+      "phoneCode": "+34",
+      "ue": true
+    },
+    {
+      "id": 3,
+      "name": "United Kingdom",
+      "code": "GBR",
+      "shortCode": "GB",
+      "phoneCode": "+44",
+      "ue": false
+    },
+    {
+      "id": 4,
+      "name": "France",
+      "code": "FRA",
+      "shortCode": "FR",
+      "phoneCode": "+33",
+      "ue": true
+    },
+    {
+      "id": 5,
+      "name": "Germany",
+      "code": "DEU",
+      "shortCode": "DE",
+      "phoneCode": "+49",
+      "ue": true
+    },
+    {
+      "id": 6,
+      "name": "Italy",
+      "code": "ITA",
+      "shortCode": "IT",
+      "phoneCode": "+39",
+      "ue": true
+    },
+    {
+      "id": 7,
+      "name": "Canada",
+      "code": "CAN",
+      "shortCode": "CA",
+      "phoneCode": "+1",
+      "ue": false
+    },
+    {
+      "id": 8,
+      "name": "Japan",
+      "code": "JPN",
+      "shortCode": "JP",
+      "phoneCode": "+81",
+      "ue": false
+    },
+    {
+      "id": 9,
+      "name": "China",
+      "code": "CHN",
+      "shortCode": "CN",
+      "phoneCode": "+86",
+      "ue": false
+    },
+    {
+      "id": 10,
+      "name": "Australia",
+      "code": "AUS",
+      "shortCode": "AU",
+      "phoneCode": "+61",
+      "ue": false
+    },
+    {
+      "id": 11,
+      "name": "Brazil",
+      "code": "BRA",
+      "shortCode": "BR",
+      "phoneCode": "+55",
+      "ue": false
+    },
+    {
+      "id": 12,
+      "name": "Mexico",
+      "code": "MEX",
+      "shortCode": "MX",
+      "phoneCode": "+52",
+      "ue": false
+    },
+    {
+      "id": 13,
+      "name": "Netherlands",
+      "code": "NLD",
+      "shortCode": "NL",
+      "phoneCode": "+31",
+      "ue": true
+    },
+    {
+      "id": 14,
+      "name": "Sweden",
+      "code": "SWE",
+      "shortCode": "SE",
+      "phoneCode": "+46",
+      "ue": true
+    },
+    {
+      "id": 15,
+      "name": "Switzerland",
+      "code": "CHE",
+      "shortCode": "CH",
+      "phoneCode": "+41",
+      "ue": false
+    },
+    {
+      "id": 16,
+      "name": "Portugal",
+      "code": "PRT",
+      "shortCode": "PT",
+      "phoneCode": "+351",
+      "ue": true
+    },
+    {
+      "id": 17,
+      "name": "Ireland",
+      "code": "IRL",
+      "shortCode": "IE",
+      "phoneCode": "+353",
+      "ue": true
+    },
+    {
+      "id": 18,
+      "name": "Belgium",
+      "code": "BEL",
+      "shortCode": "BE",
+      "phoneCode": "+32",
+      "ue": true
+    },
+    {
+      "id": 19,
+      "name": "Norway",
+      "code": "NOR",
+      "shortCode": "NO",
+      "phoneCode": "+47",
+      "ue": false
+    },
+    {
+      "id": 20,
+      "name": "Denmark",
+      "code": "DNK",
+      "shortCode": "DK",
+      "phoneCode": "+45",
+      "ue": true
+    },
+    {
+      "id": 21,
+      "name": "Poland",
+      "code": "POL",
+      "shortCode": "PL",
+      "phoneCode": "+48",
+      "ue": true
+    },
+    {
+      "id": 22,
+      "name": "Austria",
+      "code": "AUT",
+      "shortCode": "AT",
+      "phoneCode": "+43",
+      "ue": true
+    },
+    {
+      "id": 23,
+      "name": "Greece",
+      "code": "GRC",
+      "shortCode": "GR",
+      "phoneCode": "+30",
+      "ue": true
+    },
+    {
+      "id": 24,
+      "name": "Russia",
+      "code": "RUS",
+      "shortCode": "RU",
+      "phoneCode": "+7",
+      "ue": false
+    },
+    {
+      "id": 25,
+      "name": "India",
+      "code": "IND",
+      "shortCode": "IN",
+      "phoneCode": "+91",
+      "ue": false
+    },
+    {
+      "id": 26,
+      "name": "South Korea",
+      "code": "KOR",
+      "shortCode": "KR",
+      "phoneCode": "+82",
+      "ue": false
+    },
+    {
+      "id": 27,
+      "name": "Singapore",
+      "code": "SGP",
+      "shortCode": "SG",
+      "phoneCode": "+65",
+      "ue": false
+    },
+    {
+      "id": 28,
+      "name": "Argentina",
+      "code": "ARG",
+      "shortCode": "AR",
+      "phoneCode": "+54",
+      "ue": false
+    },
+    {
+      "id": 29,
+      "name": "Chile",
+      "code": "CHL",
+      "shortCode": "CL",
+      "phoneCode": "+56",
+      "ue": false
+    },
+    {
+      "id": 30,
+      "name": "South Africa",
+      "code": "ZAF",
+      "shortCode": "ZA",
+      "phoneCode": "+27",
+      "ue": false
+    },
+    {
+      "id": 31,
+      "name": "Finland",
+      "code": "FIN",
+      "shortCode": "FI",
+      "phoneCode": "+358",
+      "ue": true
+    },
+    {
+      "id": 32,
+      "name": "New Zealand",
+      "code": "NZL",
+      "shortCode": "NZ",
+      "phoneCode": "+64",
+      "ue": false
+    },
+    {
+      "id": 33,
+      "name": "Israel",
+      "code": "ISR",
+      "shortCode": "IL",
+      "phoneCode": "+972",
+      "ue": false
+    },
+    {
+      "id": 34,
+      "name": "Turkey",
+      "code": "TUR",
+      "shortCode": "TR",
+      "phoneCode": "+90",
+      "ue": false
+    },
+    {
+      "id": 35,
+      "name": "United Arab Emirates",
+      "code": "ARE",
+      "shortCode": "AE",
+      "phoneCode": "+971",
+      "ue": false
+    },
+    {
+      "id": 36,
+      "name": "Thailand",
+      "code": "THA",
+      "shortCode": "TH",
+      "phoneCode": "+66",
+      "ue": false
+    },
+    {
+      "id": 37,
+      "name": "Malaysia",
+      "code": "MYS",
+      "shortCode": "MY",
+      "phoneCode": "+60",
+      "ue": false
+    },
+    {
+      "id": 38,
+      "name": "Czech Republic",
+      "code": "CZE",
+      "shortCode": "CZ",
+      "phoneCode": "+420",
+      "ue": true
+    },
+    {
+      "id": 39,
+      "name": "Hungary",
+      "code": "HUN",
+      "shortCode": "HU",
+      "phoneCode": "+36",
+      "ue": true
+    },
+    {
+      "id": 40,
+      "name": "Romania",
+      "code": "ROU",
+      "shortCode": "RO",
+      "phoneCode": "+40",
+      "ue": true
+    },
+    {
+      "id": 41,
+      "name": "Croatia",
+      "code": "HRV",
+      "shortCode": "HR",
+      "phoneCode": "+385",
+      "ue": true
+    },
+    {
+      "id": 42,
+      "name": "Slovakia",
+      "code": "SVK",
+      "shortCode": "SK",
+      "phoneCode": "+421",
+      "ue": true
+    },
+    {
+      "id": 43,
+      "name": "Bulgaria",
+      "code": "BGR",
+      "shortCode": "BG",
+      "phoneCode": "+359",
+      "ue": true
+    },
+    {
+      "id": 44,
+      "name": "Colombia",
+      "code": "COL",
+      "shortCode": "CO",
+      "phoneCode": "+57",
+      "ue": false
+    },
+    {
+      "id": 45,
+      "name": "Peru",
+      "code": "PER",
+      "shortCode": "PE",
+      "phoneCode": "+51",
+      "ue": false
+    },
+    {
+      "id": 46,
+      "name": "Vietnam",
+      "code": "VNM",
+      "shortCode": "VN",
+      "phoneCode": "+84",
+      "ue": false
+    },
+    {
+      "id": 47,
+      "name": "Philippines",
+      "code": "PHL",
+      "shortCode": "PH",
+      "phoneCode": "+63",
+      "ue": false
+    },
+    {
+      "id": 48,
+      "name": "Egypt",
+      "code": "EGY",
+      "shortCode": "EG",
+      "phoneCode": "+20",
+      "ue": false
+    },
+    {
+      "id": 49,
+      "name": "Saudi Arabia",
+      "code": "SAU",
+      "shortCode": "SA",
+      "phoneCode": "+966",
+      "ue": false
+    },
+    {
+      "id": 50,
+      "name": "Indonesia",
+      "code": "IDN",
+      "shortCode": "ID",
+      "phoneCode": "+62",
+      "ue": false
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+    "header":[
+        {
+            "EN":"Ride History",
+            "ES":"Historial de Viajes"
+        },
+        {
+            "EN":"My Rides",
+            "ES":"Mis Viajes"
+        }
+        
+    ],
+    "user_menu":[
+        {
+            "EN":"Users Profile",
+            "ES":"Perfil de Usuario"
+        },
+        {
+            "EN":"My clients",
+            "ES":"Gestión de Clientes"
+        },
+        {
+            "EN":"Ride alerts",
+            "ES":"Alertas de Servicio Personalizados"
+        },
+        {
+            "EN":"Logout",
+            "ES":"Cerrar Sesión"
+        }
+    ],
+
+    "footer_top":[
+        {
+            "EN":"Legal notice",
+            "ES":"Aviso Legal"
+        },
+        {
+            "EN":"Privacy policy",
+            "ES":"Política de Privacidad"
+        },
+        {
+            "EN":"Cookies",
+            "ES":"Cookies"
+        },
+        {
+            "EN":"Terms and conditions",
+            "ES":"Términos y Condiciones"
+        },
+        {
+            "EN":"Social networks",
+            "ES":"Redes Sociales"
+        }
+    ],
+    "footer_bottom":[
+        {
+            "EN":"info@drivania.com",
+            "ES":"info@drivania.com"
+        },
+        {
+            "EN":"EU +34 93 176 0215",
+            "ES":"EU +34 93 176 0215"
+        },
+        {
+            "EN":"USA +1 415 366 9654",
+            "ES":"USA +1 415 366 9654"
+        },
+        {
+            "EN":"UK +44 203 769 1926",
+            "ES":"UK +44 203 769 1926"
+        },
+        {
+            "EN":"© 2001-2024 Drivania All rights reserved.",
+            "ES":"© 2001-2024 Drivania Todos los derechos reservados."
+        }
+    ],
+    "modal_whos_there":[
+        {
+            "EN":"Who's there?",
+            "ES":"¿Quién está ahí?"
+        },
+        {
+            "EN":"Please identify yourself to link the booking to your profile.",
+            "ES":"Identifique a sí mismo para vincular la reserva a su perfil."
+        },
+        {
+            "EN":"Select profile",
+            "ES":"Seleccionar perfil"
+        },
+        {
+            "EN":"Add user profile",
+            "ES":"Añadir perfil de usuario" 
+        },
+            
+        {
+            "EN":"That’s me",
+            "ES":"Soy yo"
+        },
+        {
+            "EN":"Full name",
+            "ES":"Nombre completo"
+        },
+        {
+            "EN":"Cell phone",
+            "ES":"Celular"
+        },
+        {
+            "EN":"Email address",
+            "ES":"Correo electrónico"
+        },
+
+        {
+            "EN":"The phone number you entered is not valid",
+            "ES":"El número de teléfono que ingresó no es válido"
+           
+        },
+        
+        {
+            "EN":"The email address you entered is not valid.",
+            "ES":"La dirección de correo electrónico que ingresó no es válida."
+        },
+        {
+            "EN":"Confirm",
+            "ES":"Confirmar"
+        },
+        {
+            "EN":"The name is required",
+            "ES":"Se requiere un nombre"
+           
+        }
+    ],
+
+
+    "FESTB/EVNT": [
+        {
+            "EN": "Special event on this date",
+            "ES": "Evento especial en esta fecha"
+        },
+        {
+            "EN": "Due to a special event in this destination, we anticipate peak demand. Please select a vehicle below, and we'll promptly send a customized quote to your email",
+            "ES": "Debido a un evento especial en esta destino, esperamos una demanda alta. Seleccione un vehículo abajo y le enviaremos una cotización personalizada a su correo electrónico"
+        }
+    ],
+    "URG/OUT": [
+        {
+            "EN": "Impending service request",
+            "ES": "Solicitud de servicio impending"
+        },
+        {
+            "EN": "Your ride is scheduled to take place within the next few hours. To ensure availability, please select a vehicle below, and we'll promptly send a customized quote to your email",
+            "ES": "Su viaje se programa para realizarse en las próximas horas. Para garantizar su disponibilidad, seleccione un vehículo abajo y le enviaremos una cotización personalizada a su correo electrónico"
+        }
+    ],
+    "UNFR": [
+        {
+            "EN": "Request a quote",
+            "ES": "Solicitar cotización"
+        },
+        {
+            "EN": "This is itinerary is not frequently used and requires a custom quote. Please select a vehicle below, and we'll promptly send a customized quote to your email.",
+            "ES": "Esta itinerario no es utilizado frecuentemente y requiere una cotización personalizada. Seleccione un vehículo abajo y le enviaremos una cotización personalizada a su correo electrónico."
+        }
+    ]
+
+
+
+
+}

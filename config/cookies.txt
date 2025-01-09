@@ -1,0 +1,2 @@
+# Dominio	Include_subdomains	Path	Secure_only	Expiration	Name	Value
+localhost	TRUE	/	FALSE	1743573225	tuCookie	valor123

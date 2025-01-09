@@ -1,0 +1,141 @@
+@font-face {
+  font-family: 'drivaniaUI';
+  src:  url('../fonts/drivaniaUI.eot?rsayp7');
+  src:  url('../fonts/drivaniaUI.eot?rsayp7#iefix') format('embedded-opentype'),
+    url('../fonts/drivaniaUI.ttf?rsayp7') format('truetype'),
+    url('../fonts/drivaniaUI.woff?rsayp7') format('woff'),
+    url('../fonts/drivaniaUI.svg?rsayp7#drivaniaUI') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'drivaniaUI' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.drv-search-md:before {
+  content: "\e921";
+}
+.drv-search-lg:before {
+  content: "\e920";
+}
+.drv-dots-grid:before {
+  content: "\e91c";
+}
+.drv-flag-05:before {
+  content: "\e91d";
+}
+.drv-lock-01:before {
+  content: "\e91e";
+}
+.drv-marker-pin-03:before {
+  content: "\e91f";
+}
+.drv-radio_selected .path1:before {
+  content: "\e918";
+  color: rgb(46, 46, 51);
+}
+.drv-radio_selected .path2:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.drv-radio_unselected .path1:before {
+  content: "\e91a";
+  color: rgb(255, 255, 255);
+}
+.drv-radio_unselected .path2:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(204, 199, 191);
+}
+.drv-alert-circle:before {
+  content: "\e917";
+}
+.drv-alert-triangle:before {
+  content: "\e900";
+}
+.drv-arrow-left:before {
+  content: "\e901";
+}
+.fas.fa-chevron-left:before {
+  content: "\e901";
+}
+.drv-arrow-narrow-right:before {
+  content: "\e902";
+}
+.fas.fa-chevron-right:before {
+  content: "\e902";
+}
+.drv-calendar:before {
+  content: "\e903";
+}
+.drv-check-square-broken:before {
+  content: "\e904";
+}
+.drv-check:before {
+  content: "\e905";
+}
+.drv-chevron-down:before {
+  content: "\e906";
+}
+.drv-chevron-up:before {
+  content: "\e907";
+}
+.drv-clock:before {
+  content: "\e908";
+}
+.drv-close01:before {
+  content: "\e909";
+}
+.drv-edit-02:before {
+  content: "\e90a";
+}
+.drv-luggage-03:before {
+  content: "\e90b";
+}
+.drv-mail-02:before {
+  content: "\e90c";
+}
+.drv-map-01:before {
+  content: "\e90d";
+}
+.drv-message-text-square-02:before {
+  content: "\e90e";
+}
+.drv-minus:before {
+  content: "\e90f";
+}
+.drv-plus:before {
+  content: "\e910";
+}
+.drv-ruler:before {
+  content: "\e911";
+}
+.drv-switch-horizontal-01:before {
+  content: "\e912";
+}
+.drv-trash-04:before {
+  content: "\e913";
+}
+.drv-user-circle:before {
+  content: "\e914";
+}
+.drv-users-03:before {
+  content: "\e915";
+}
+.drv-x-close:before {
+  content: "\e916";
+}
